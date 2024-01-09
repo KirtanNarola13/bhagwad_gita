@@ -43,7 +43,7 @@ class SplashScreen extends StatelessWidget {
                       children: [
                         const Image(
                           image: NetworkImage(
-                            'https://fontmeme.com/temporary/7a84c0ba7ab0e2e9011a031fd7d02eac.png',
+                            'https://fontmeme.com/permalink/240109/7a84c0ba7ab0e2e9011a031fd7d02eac.png',
                           ),
                         ),
                         Divider(
